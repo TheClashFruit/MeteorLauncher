@@ -17,7 +17,7 @@
 
         <item name="elevationOverlayEnabled">false</item>
 
-        <item name="android:windowBackground">@drawable/bg_orange</item>
+        <item name="android:windowBackground">@drawable/bg_default</item>
 
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:navigationBarColor">@android:color/transparent</item>
