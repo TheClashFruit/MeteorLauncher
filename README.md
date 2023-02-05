@@ -17,3 +17,5 @@
 <p align="center">
   An Android launcher built from the ground up with simplicity and consistency in mind.
 </p>
+
+![Screenshots](https://user-images.githubusercontent.com/55049569/216838757-d7a7f833-434c-4b59-8f60-7b34d52c8c7d.png)
