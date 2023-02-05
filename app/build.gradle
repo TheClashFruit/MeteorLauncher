@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "me.theclashfruit.launcher"
-        minSdk 26
+        minSdk 20
         targetSdk 33
         versionCode 1
         versionName "1.0"

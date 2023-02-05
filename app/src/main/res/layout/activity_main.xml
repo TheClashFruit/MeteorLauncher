@@ -16,7 +16,7 @@
         android:format12Hour="hh:mm a"
         android:format24Hour="HH:mm"
         android:text="12:00"
-        android:textColor="@color/material_dynamic_primary70"
+        android:textColor="@color/colorDynamic"
         android:textSize="48sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -31,7 +31,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/mainClock"
         app:srcCompat="@drawable/ic_battery_50"
-        app:tint="@color/material_dynamic_primary70" />
+        app:tint="@color/colorDynamic" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -72,18 +72,5 @@
         app:layout_constraintTop_toBottomOf="@+id/batteryView"
         app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/app_email" />
-
-    <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="4dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView2"
-        app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@drawable/ic_expand"
-        app:tint="@color/material_dynamic_primary90" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
