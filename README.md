@@ -1,4 +1,5 @@
-![meteor_banner](https://user-images.githubusercontent.com/55049569/216811875-dd3bc668-bdbf-49ce-b69b-5ff1fe33fe6f.png)
+![Meteor's Banner](https://user-images.githubusercontent.com/55049569/217032892-69b37767-5ed7-411b-b531-996dd8b93988.svg)
+
 
 <h1 align="center">
   Meteor
@@ -18,7 +19,7 @@
   Meteor is a fast and lightweight Android launcher designed with simplicity, consistency, and customization in mind.
 </p>
 
-![Screenshots](https://user-images.githubusercontent.com/55049569/216838757-d7a7f833-434c-4b59-8f60-7b34d52c8c7d.png)
+![Mockups of Meteor](https://user-images.githubusercontent.com/55049569/217032814-12e2cb1d-e941-4198-a0bb-9ac56536d2d0.svg)
 
 ## About
 
