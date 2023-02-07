@@ -1,5 +1,4 @@
-![Meteor's Banner](https://user-images.githubusercontent.com/55049569/217032892-69b37767-5ed7-411b-b531-996dd8b93988.svg)
-
+![Meteor's Banner](https://user-images.githubusercontent.com/55049569/217169915-01bce355-0306-46ff-8569-48657019a281.svg)
 
 <h1 align="center">
   Meteor
